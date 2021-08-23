@@ -1,6 +1,6 @@
 # BCCD_Reorganized
 
-This dataset is a re-organized and re-sized version of the [kaggle Blood Cell Classification Dataset](https://www.kaggle.com/paultimothymooney/blood-cells), which contains 12515 images of blood cells.
+This dataset is a re-organized and re-sized version of the [kaggle Blood Cell Classification Dataset](https://www.kaggle.com/paultimothymooney/blood-cells), which contains 12515 images of blood cells. Images in the original dataset are 320 * 240, the resized ones in this dataset are 128 * 128.
 
 The original GitHub repository of the dataset can be found [here](https://github.com/Shenggan/BCCD_Dataset/tree/master/BCCD)
 
